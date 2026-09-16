@@ -41,13 +41,13 @@ The project uses Matplotlib and Seaborn to visualize the data.
 
 This chart shows the relationship between supply and price.
 
-![Supply vs Price](supply_price.png)
+![Supply vs Price](supply-and-Price-relationship.png)
 
 ### Demand vs Price
 
 This chart shows the relationship between demand and price.
 
-![Demand vs Price](demand_price.png)
+![Demand vs Price](demand-and-Price-relationship.png)
 
 The individual relationships can show substantial dispersion. This does not necessarily mean that the model or dataset is poor, because the final Linear Regression model uses both supply and demand together.
 
