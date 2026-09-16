@@ -47,7 +47,7 @@ This chart shows the relationship between supply and price.
 
 This chart shows the relationship between demand and price.
 
-![Demand vs Price](demand-and-Price-relationship.png)
+![Demand vs Price](demand-and-Price-Relationship.png)
 
 The individual relationships can show substantial dispersion. This does not necessarily mean that the model or dataset is poor, because the final Linear Regression model uses both supply and demand together.
 
